@@ -1,0 +1,16 @@
+openstack.compute (2011.3-d5-rcb1) natty; urgency=low
+
+  * Updated upstream source from
+    https://github.com/cloudbuilders/openstack.compute.git, revision
+    89c5c6a3fcc0864e6de2a8bc10bcaf93b13a259e Updated debian packaging
+    from https://github.com/rpedde/debians.git, revision
+    8f0955e0ce0bdc70b5a8933352d1f589de955413
+
+ -- root <build@syn-n04.lab>  Tue, 13 Sep 2011 23:38:18 -0500
+
+openstack.compute (000-000-0000) maverick; urgency=low
+
+  * Initial Commit
+
+ -- root <root@packaging>  Tue, 19 Jul 2011 22:21:31 +0000
+
