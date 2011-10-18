@@ -1,0 +1,9 @@
+#
+# pip requires for hacking on the code.
+#
+
+mock
+nose
+coverage
+Sphinx
+tox
