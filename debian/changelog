@@ -1,3 +1,10 @@
+openstack.compute (2011.3-final-rcb1) natty; urgency=low
+
+  * update to github.com/cloudbulders/openstack.compute.git, revision
+    89c5c6a3fcc0864e6de2a8bc10bcaf93b13a259e
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Tue, 01 Nov 2011 12:36:08 -0500
+
 openstack.compute (2011.3-d5-rcb2) natty; urgency=low
 
   * add x-rcb-component in preparation for essex-e0 release
